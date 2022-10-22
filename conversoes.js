@@ -12,5 +12,3 @@ console.log(numero + numeroString)
 // conversão explícita
 
 console.warn(new Error('oi'))
-
-//teste
